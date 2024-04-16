@@ -1,8 +1,4 @@
 {
-    "ProcessingInstanceType": "ml.m5.large",
-    "ProcessingInstanceCount": "ml.m5.large",
-    "TrainingInstanceType": "ml.m5.large",
-    "TrainingInstanceCount": "ml.m5.large",
     "SkipDataQualityCheck": true, 
     "RegisterNewDataQualityBaseline": true, 
     "SkipDataBiasCheck": true, 
